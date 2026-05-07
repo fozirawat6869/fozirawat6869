@@ -42,6 +42,16 @@ REST API
 
 ## 🚀 Projects
 
+### 🌐 Live Demo:
+
+https://ecommerce-website-two-rose.vercel.app
+
+### ⚙️ Deployment:
+
+* Frontend: Vercel
+* Backend: Render
+* Database: Aiven
+
 ### 🛒 E-Commerce Website (Full Stack)
 
 A full-featured scalable e-commerce platform built using MERN stack.
@@ -63,15 +73,7 @@ A full-featured scalable e-commerce platform built using MERN stack.
 * Caching (improved performance)
 * Rate Limiting (security & API protection)
 
-### 🌐 Live Demo:
 
-https://ecommerce-website-two-rose.vercel.app
-
-### ⚙️ Deployment:
-
-* Frontend: Vercel
-* Backend: Railway
-* Database: Railway
 
 ### 💻 Code:
 
