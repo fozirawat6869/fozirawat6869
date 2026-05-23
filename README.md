@@ -42,7 +42,7 @@ REST API
 
 ## 🚀 Projects
 
-### 🌐 Live Demo: https://ecommerce-website-two-rose.vercel.app
+### 🌐 Live Demo : https://ecommerce-website-two-rose.vercel.app
 
 ### ⚙️ Deployment:
 
@@ -73,7 +73,7 @@ A full-featured scalable e-commerce platform built using MERN stack.
 
 
 
-### 💻 Code: https://github.com/fozirawat6869/Ecommerce-Website
+### 💻 Code : https://github.com/fozirawat6869/Ecommerce-Website
 
 ---
 
