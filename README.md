@@ -166,11 +166,6 @@ The application is fully responsive and optimized for:
 * Admin Authorization
 
 
-n (efficient data loading)
-* Lazy Loading (faster UI rendering)
-* Debouncing (optimized search)
-* Caching (improved performance)
-* Rate Limiting (security & API protection)
 
 
 
