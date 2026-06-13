@@ -32,7 +32,7 @@ MongoDB | MySQL
 
 ### 🛠️ Tools & Platforms
 
-GitHub | Vercel | Railway | Postman
+GitHub | Vercel | Railway | Postman | Aiven
 
 ### 🔗 API
 
