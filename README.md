@@ -149,6 +149,7 @@ A full-stack e-commerce web application built with modern technologies, featurin
 * Lazy Loading
 * API Response Caching
 * Optimized API Calls
+* Debouncing
 * Efficient Data Fetching with React Query
 * Clean & Scalable Project Structure
 
