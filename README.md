@@ -41,6 +41,7 @@ Experienced in building scalable backend systems and responsive frontend applica
 
 * GitHub
 * Vercel
+* Render
 * Railway
 * Postman
 * Aiven
