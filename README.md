@@ -18,6 +18,7 @@ Experienced in building scalable backend systems and responsive frontend applica
 
 * JavaScript
 * TypeScript
+* Java
 
 ## 🎨 Frontend
 
