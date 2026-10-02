@@ -31,6 +31,7 @@ Experienced in building scalable backend systems and responsive frontend applica
 
 * Node.js
 * Express.js
+* Spring Boot
 
 ## 🗄️ Database
 
