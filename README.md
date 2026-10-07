@@ -186,7 +186,7 @@ A full-stack e-commerce web application built with modern technologies, featurin
 
 # 📱 Responsive Design
 
-The application is fully responsive and optimized for:
+The application is fully responsive and optimized for:-
 
 * Mobile Devices
 * Tablets
